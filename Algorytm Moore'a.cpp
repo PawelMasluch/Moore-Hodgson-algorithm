@@ -6,6 +6,9 @@ oraz zadania wykonuja sie niezaleznie od siebie.
 
 Dodatkowo, podaje przykladowa kolejnosc wykonywania zadan,
 gwarantujaca minimalna liczbe zadan opoznionych.
+
+Copyright (C) Pawel Masluch
+2021
 */
 
 
