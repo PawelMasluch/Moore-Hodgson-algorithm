@@ -1,4 +1,8 @@
 /*
+
+Copyright (C) Pawel Masluch, 2021. All rights reserved.
+
+
 Algorytm Moore'a (Hodgsonsa) znajduje minimalna liczbe 
 zadan opoznionych, przy zalozeniu, ze wszystkie zadania 
 maja byc wykonane sekwencyjnie na jednym procesorze
@@ -6,9 +10,6 @@ oraz zadania wykonuja sie niezaleznie od siebie.
 
 Dodatkowo, podaje przykladowa kolejnosc wykonywania zadan,
 gwarantujaca minimalna liczbe zadan opoznionych.
-
-Copyright (C) Pawel Masluch
-2021
 */
 
 
